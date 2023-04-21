@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hX7voM1d+lf6MZLFTzmOzIkC1XsFiNdfVtBu73fGbJw=",
+  "Source": "VeicleAPI",
+  "BasePath": "_content/VeicleAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
