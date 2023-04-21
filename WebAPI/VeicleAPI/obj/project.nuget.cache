@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y7o1WgMc4ggb2WRQwdF5QUAKUzHs0dVhPdXmfMamUNsC+IsDgkqdo0uHLA1J9l65/GotpO68gQ7Af1MvJ4mjRA==",
+  "dgSpecHash": "1bY+KhAG541z1IVxWXzLeOWMa1sYLz3FeQ5ROX2oPVlmYsr+uDQ6/nlIcrFw+aEcOVG9+tYRqhaWzT59Gu+SSQ==",
   "success": true,
   "projectFilePath": "/home/mauricio/Documentos/GitHub/WebApplication/WebAPI/VeicleAPI/VeicleAPI.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/home/mauricio/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512"
   ],
   "logs": []
 }

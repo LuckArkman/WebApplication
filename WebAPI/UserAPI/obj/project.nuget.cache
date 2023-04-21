@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VhfuptOXaU2neiLDwvl5s42Bx0tgTmknPjV0q/tbBSA9OZdyA5ahcNrxLjS4pEfYqIi1xPxm7rqyzvNo4mX+Yw==",
+  "dgSpecHash": "XYjPHoB0IboZyxSqb49B9NOB5/pA3LnQuN386mXSvud68Rlb5SVJWUc8jpUeo7Iv4/Ukrw0EiPj34gjTFo/XnQ==",
   "success": true,
   "projectFilePath": "/home/mauricio/Documentos/GitHub/WebApplication/WebAPI/UserAPI/UserAPI.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/home/mauricio/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/home/mauricio/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512"
   ],
   "logs": []
 }
