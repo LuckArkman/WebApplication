@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VeicleAPI
-build_property.ProjectDir = E:\Azure Projects\WebApplication\WebAPI\VeicleAPI\
+build_property.ProjectDir = /home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/VeicleAPI/

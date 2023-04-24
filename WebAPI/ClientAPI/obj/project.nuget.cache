@@ -1,16 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "3eu44bQ5yIQS7T/M3trfT69mOpQMiVU7SfLJgCnRDmzXe8tLR2wrHpXKAYbPsOoDlDPWGpFNOsLlFEs44tm7PQ==",
+  "dgSpecHash": "BtUoAOHq1M1Q0snm8nd1gB+bSNjHd/WUcplAOzrcehBzOaZ+Ao2gd7jWFHDw8oai8VLLYLJUjyipiu1Z7z4VWw==",
   "success": true,
-  "projectFilePath": "E:\\Azure Projects\\WebApplication\\WebAPI\\ClientAPI\\ClientAPI.csproj",
+  "projectFilePath": "/home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/ClientAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mauricio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\mauricio\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\mauricio\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
-    "C:\\Users\\mauricio\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\mauricio\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\mauricio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\mauricio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "/home/mpLopes/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/mpLopes/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/mpLopes/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.17.2/microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "/home/mpLopes/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/mpLopes/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/mpLopes/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/mpLopes/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/home/mpLopes/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mpLopes/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mpLopes/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

@@ -4,10 +4,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientAPI", "ClientAPI\ClientAPI.csproj", "{0A4A87D6-1B72-48F7-A2EE-6C080BAD643A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C02E1F2D-EBA8-4F58-A661-14050399CA7D} = {C02E1F2D-EBA8-4F58-A661-14050399CA7D}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAPI", "UserAPI\UserAPI.csproj", "{C02E1F2D-EBA8-4F58-A661-14050399CA7D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeicleAPI", "VeicleAPI\VeicleAPI.csproj", "{9213D497-A69E-4AF5-AF8E-2522CC1051B7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C02E1F2D-EBA8-4F58-A661-14050399CA7D} = {C02E1F2D-EBA8-4F58-A661-14050399CA7D}
+		{0A4A87D6-1B72-48F7-A2EE-6C080BAD643A} = {0A4A87D6-1B72-48F7-A2EE-6C080BAD643A}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
