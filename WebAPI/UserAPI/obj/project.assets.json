@@ -460,24 +460,31 @@
     ]
   },
   "packageFolders": {
-    "/home/mpLopes/.nuget/packages/": {}
+    "C:\\Users\\mauricio\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/UserAPI/UserAPI.csproj",
+      "projectUniqueName": "E:\\Azure Projects\\WebApplication\\WebAPI\\UserAPI\\UserAPI.csproj",
       "projectName": "UserAPI",
-      "projectPath": "/home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/UserAPI/UserAPI.csproj",
-      "packagesPath": "/home/mpLopes/.nuget/packages/",
-      "outputPath": "/home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/UserAPI/obj/",
+      "projectPath": "E:\\Azure Projects\\WebApplication\\WebAPI\\UserAPI\\UserAPI.csproj",
+      "packagesPath": "C:\\Users\\mauricio\\.nuget\\packages\\",
+      "outputPath": "E:\\Azure Projects\\WebApplication\\WebAPI\\UserAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/mpLopes/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -524,7 +531,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.104/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
