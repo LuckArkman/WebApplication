@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/mauricio/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/ClientAPI.csproj": {}
+    "/home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/ClientAPI.csproj": {}
   },
   "projects": {
-    "/home/mauricio/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/ClientAPI.csproj": {
+    "/home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/ClientAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mauricio/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/ClientAPI.csproj",
+        "projectUniqueName": "/home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/ClientAPI.csproj",
         "projectName": "ClientAPI",
-        "projectPath": "/home/mauricio/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/ClientAPI.csproj",
-        "packagesPath": "/home/mauricio/.nuget/packages/",
-        "outputPath": "/home/mauricio/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/obj/",
+        "projectPath": "/home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/ClientAPI.csproj",
+        "packagesPath": "/home/mpLopes/.nuget/packages/",
+        "outputPath": "/home/mpLopes/Documentos/GitHub/WebApplication/WebAPI/ClientAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mauricio/.nuget/NuGet/NuGet.Config"
+          "/home/mpLopes/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -58,12 +58,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.4, 7.0.4]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -72,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.104/RuntimeIdentifierGraph.json"
         }
       }
     }
